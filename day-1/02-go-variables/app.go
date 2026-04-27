@@ -1,9 +1,9 @@
 package main
 
 import "fmt"
-
+var name string = "Mark"
 func main() {
-	var name string = "Mark"
+	
 	age := 18
 	score := 8.5
 	isStudent := true
